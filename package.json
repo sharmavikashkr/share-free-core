@@ -34,7 +34,7 @@
     "cuint": "^0.2.2",
     "dotenv": "^16.0.2",
     "firebase-admin": "^11.0.1",
-    "helmet": "^6.0.0",
+    "helmet": "^7.0.0",
     "mongoose": "^7.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^4.1.2",
