@@ -44,7 +44,7 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "^9.1.3",
+    "@nestjs/cli": "^10.0.3",
     "@nestjs/schematics": "^9.0.3",
     "@nestjs/testing": "^9.1.2",
     "@types/cuint": "^0.2.1",
