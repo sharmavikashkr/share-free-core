@@ -24,7 +24,7 @@
   "dependencies": {
     "@nestjs/azure-storage": "^3.0.0",
     "@nestjs/common": "^9.1.2",
-    "@nestjs/config": "^2.2.0",
+    "@nestjs/config": "^3.0.0",
     "@nestjs/core": "^9.1.2",
     "@nestjs/mongoose": "^9.2.0",
     "@nestjs/platform-express": "^9.1.2",
